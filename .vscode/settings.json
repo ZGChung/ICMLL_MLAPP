@@ -1,0 +1,15 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "arange",
+        "frameon",
+        "MLAPP",
+        "mvsk",
+        "pyplot",
+        "scipy",
+        "vlines",
+        "xlabel",
+        "ylabel"
+    ]
+}
